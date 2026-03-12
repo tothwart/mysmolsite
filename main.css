@@ -12,4 +12,6 @@ body {
     position: sticky;
     top: 5px;
     text-decoration: none;
+    padding: 5px;
+    background-color: aquamarine;
 }
